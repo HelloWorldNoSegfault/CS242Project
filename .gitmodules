@@ -1,0 +1,3 @@
+[submodule "pytest-mock"]
+	path = pytest-mock
+	url = git@github.com:pytest-dev/pytest-mock.git
